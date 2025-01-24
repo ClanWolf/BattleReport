@@ -1,2 +1,2 @@
 # BattleReport
-Create a battle report as pdf from ascard database
+Create a battle report (pdf) from ascard database
